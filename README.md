@@ -1,5 +1,5 @@
 <h1>Welcome to the Game Challenge!</h1>
-<p>Details for setting up custom game types and importing classes will be here soon.</p>
+<p><strong>WARNING:</srong> The instructions below may be incorrect, I wrote them from memory. I will be updating this tonight with varified info.</p>
 <hr />
 
 <h2>Quick start for side scroll platformer:</h2>
