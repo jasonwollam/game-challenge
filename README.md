@@ -20,4 +20,6 @@
   <li>Click Start - This will compile your code, cook the maps, and launch the game</li>
 </ol>
 
+<hr />
+
 <p>I will be adding more about UnrealScript and where to begin building our game.</p>
