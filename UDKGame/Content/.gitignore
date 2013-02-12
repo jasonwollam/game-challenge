@@ -1,0 +1,15 @@
+/Maps/
+/Mobile/
+/Shared/
+/Showcases/
+/TestPackages/
+/UT3/
+/*.checkpoint
+/GameAssetDatabase.journal
+/GlobalShaderCache-PC-D3D-SM3.bin
+/GlobalShaderCache-PC-D3D-SM5.bin
+/GlobalShaderCache-PC-OpenGL.bin
+/LocalShaderCache-PC-D3D-SM5.upk
+/RefShaderCache-PC-D3D-SM3.upk
+/RefShaderCache-PC-D3D-SM5.upk
+/RefShaderCache-PC-OpenGL.upk
