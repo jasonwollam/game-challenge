@@ -8,16 +8,18 @@
 
 <ol>
   <li>Open \UDKGame\Config\DefaultEngine.ini - Add <strong>+EditPackages=StarterPlatformGame</strong> under [UnrealEd.EditorEngine]</li>
-  <li>Start UDK Editor and open the map StarterPlatformMap.udk
+  <li>Start Unreal Frontend (\Binaries\UnrealFrontend.exe), click clone and rename the profile to your liking</li>
+  <li>Maps to cook: Remove any maps, then add StarterPlatformMap.udk (That should be the only map your cooking)</li>
+  <li>Click Script - This will drop down. Click Full Compile</li>
+  <li>Start UDK Editor, click UnrealEd button</li>
+  <li>Open the map StarterPlatformMap.udk
     <ul>
       <li>Goto View > World Properties</li>
       <li>Click Game Type to expand</li>
       <li>From Default Game Type drop down select SPG_GameInfo and save the map</li>
     </ul>
   </li>
-  <li>Start Unreal Frontend, click clone and rename the profile to your liking</li>
-  <li>Maps to cook: Remove any maps, then add StarterPlatformMap.udk (That should be the only map your cooking)</li>
-  <li>Click Start - This will compile your code, cook the maps, and launch the game</li>
+  <li>Now your ready to play. Click the green play button in the top right (Opens new window). If you click the blue play button it will launch the game in the viewport.</li>
 </ol>
 
 <hr />
