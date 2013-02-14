@@ -4,7 +4,7 @@
 
 <h2>Quick start for side scroll platformer:</h2>
 
-<p>After cloning repository and placing files in UDK file structure you will need to edit a config INI file and set game type in the map.</p>
+<p>After cloning repository and <strong>placing files in UDK file structure</strong> you will need to edit a config INI file and set game type in the map.</p>
 
 <ol>
   <li>Open \UDKGame\Config\DefaultEngine.ini - Add <strong>+EditPackages=StarterPlatformGame</strong> under [UnrealEd.EditorEngine]</li>
